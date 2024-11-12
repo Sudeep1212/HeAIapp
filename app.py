@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import streamlit as st
 
-GOOGLE_API_KEY = "AIzaSyBiAMiZ0GSqTtaMIeBXzuv38-JHJJ8sy8w"
+GOOGLE_API_KEY = "AIzaSyABqFScfhJ49Gwwsxb7OnHV-yPsH1jONRc"
 
 st.set_page_config(page_title='AI Chemist App', layout="centered")
 
